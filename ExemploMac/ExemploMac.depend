@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1471693431 source:c:\users\aluno.servidorfatec\documents\exemplomac\main.c
+	<stdio.h>
+	<stdlib.h>
+

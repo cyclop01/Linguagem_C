@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473505118 source:c:\users\aluno.servidorfatec\documents\testevetor\main.c
+	<stdio.h>
+	<stdlib.h>
+

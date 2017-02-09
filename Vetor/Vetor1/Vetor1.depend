@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473509886 source:c:\users\aluno.servidorfatec\documents\vetor1\main.c
+	<stdio.h>
+	<stdlib.h>
+
